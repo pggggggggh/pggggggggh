@@ -1,4 +1,4 @@
-## Hi there 👋
+![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=redheadphone)
 
 <!--
 **pggggggggh/pggggggggh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
