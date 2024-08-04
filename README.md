@@ -1,5 +1,5 @@
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={pgggggggggh})](https://solved.ac/pgggggggggh)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pgggggggggh)](https://solved.ac/pgggggggggh)
 
 ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=redheadphone)
 
