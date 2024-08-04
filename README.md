@@ -1,3 +1,5 @@
+- 🌱 I’m currently learning PS/Backend Development
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=pgggggggggh)](https://solved.ac/pgggggggggh) ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=pgggggggggh)
 
