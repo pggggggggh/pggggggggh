@@ -1,7 +1,9 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pgggggggggh)](https://solved.ac/pgggggggggh)
 
-![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=redheadphone)
+[![CodeForces Profile](https://cf.leed.at?id=pggggggggh)](https://codeforces.com/profile/pggggggggh)
+
+<!-- ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=redheadphone) -->
 
 <!--
 **pggggggggh/pggggggggh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
