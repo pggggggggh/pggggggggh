@@ -1,7 +1,7 @@
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pgggggggggh)](https://solved.ac/pgggggggggh)
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=pgggggggggh)](https://solved.ac/pgggggggggh)
 
-[![CodeForces Profile](https://cf.leed.at?id=pgggggggggh)](https://codeforces.com/profile/pgggggggggh)
+![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=pgggggggggh)
 
 <!-- ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=redheadphone) -->
 
