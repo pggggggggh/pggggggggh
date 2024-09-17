@@ -1,5 +1,5 @@
 - 🌱 I’m currently learning PS/Backend Development in Yonsei Univ.
-- 💬 My project on reviewing tracks: http://music321.netlify.app
+- 💬 My project on reviewing K-POP tracks: http://music321.netlify.app
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=pgggggggggh)](https://solved.ac/pgggggggggh)
