@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning PS/Backend Development in Yonsei Univ.
+- 🌱 I’m currently learning Problem Solving/Backend Development in Yonsei Univ.
 - 💬 My project on reviewing K-POP tracks: http://music321.netlify.app
 
 [![Solved.ac
