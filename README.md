@@ -1,5 +1,4 @@
 - 🌱 I’m currently learning Problem Solving/Backend Development in Yonsei Univ.
-- 💬 My project on reviewing K-POP tracks: http://music321.netlify.app (Temporary Unavailable)
 - 😄 Come see pics of K-POP idol ILLIT! http://illit.me
 
 [![Solved.ac
@@ -10,6 +9,8 @@
 
 Here are some ideas to get you started:
 
+
+- 💬 My project on reviewing K-POP tracks: http://music321.netlify.app (Temporary Unavailable)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
