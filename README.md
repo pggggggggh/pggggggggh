@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning Problem Solving/Full-Stack Development in Yonsei Univ.
+- 🌱 I’m currently a sophomore at Yonsei University, studying Problem Solving and Full-Stack Development.
 - 😄 Come see pics of K-POP idol ILLIT! http://illit.me
 
 [![Solved.ac
