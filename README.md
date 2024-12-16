@@ -1,5 +1,5 @@
 - 🌱 I’m currently a sophomore at Yonsei University, studying Problem Solving and Full-Stack Development.
-- 👯 How about solving BOJ problems competitively with friends? https://blobnom.xyz/
+- 👯 How about solving BOJ problems competitively with friends? https://blobnom.xyz/ (from newbies to LGM!)
 - 😄 Come see pics of K-POP idol ILLIT! http://illit.me
 
 [![Solved.ac
