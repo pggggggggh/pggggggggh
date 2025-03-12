@@ -1,7 +1,7 @@
 - 🌱 I’m currently a sophomore at Yonsei University, studying Problem Solving and Full-Stack Development.
 - 🏅 KOI 2013, 2015 Silver, 2018 Bronze
 - 👯 How about solving BOJ problems competitively with friends? https://blobnom.xyz/ (from newbies to LGM!)
-- 😄 Come see pics of K-POP idol ILLIT! http://illit.me (temporarily closed)
+- 😄 Come see pics of K-POP idol ILLIT! http://illit.me
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=pgggggggggh)](https://solved.ac/pgggggggggh) [![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=magnet1c)](https://codeforces.com/profile/magnet1c)
