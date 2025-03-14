@@ -5,7 +5,7 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=pgggggggggh)](https://solved.ac/pgggggggggh)
-[![CodeForces Profile](https://cf.leed.at?id={magnet1c})](https://codeforces.com/profile/{magnet1c})
+[![CodeForces Profile](https://cf.leed.at?id=Magnet1c)](https://codeforces.com/profile/Magnet1c)
 
 <!-- [![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=magnet1c)](https://codeforces.com/profile/magnet1c) -->
 
