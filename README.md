@@ -4,7 +4,10 @@
 - 😄 Come see pics of K-POP idol ILLIT! http://illit.me
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=pgggggggggh)](https://solved.ac/pgggggggggh) [![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=magnet1c)](https://codeforces.com/profile/magnet1c)
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=pgggggggggh)](https://solved.ac/pgggggggggh)
+[![CodeForces Profile](https://cf.leed.at?id={magnet1c})](https://codeforces.com/profile/{magnet1c})
+
+<!-- [![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=magnet1c)](https://codeforces.com/profile/magnet1c) -->
 
 <!--
 **pggggggggh/pggggggggh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
