@@ -1,4 +1,4 @@
-- 🌱 I’m currently a sophomore at Yonsei University, studying Problem Solving and Full-Stack Development.
+- 🌱 I’m currently a junior at Yonsei University, studying Problem Solving and Full-Stack Development.
 - 🏅 KOI 2013, 2015 Silver, 2018 Bronze
 - 👯 How about solving BOJ problems competitively with friends? https://blobnom.xyz/ (from newbies to LGM!)
 - 😄 Come see pics of K-POP idol ILLIT! http://illit.me
