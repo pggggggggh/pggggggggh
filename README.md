@@ -5,8 +5,6 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pgggggggggh)](https://solved.ac/pgggggggggh)
-[![CodeForces Profile](https://cf.leed.at?id=MisonoMika.)](https://codeforces.com/profile/MisonoMika.)
-
 <!--
 **pggggggggh/pggggggggh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
