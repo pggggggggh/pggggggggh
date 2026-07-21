@@ -1,7 +1,7 @@
 - 🌱 I’m currently a junior at Yonsei University, studying Problem Solving and Full-Stack Development (Especially Kotlin & Spring).
 - 🏅 KOI 2013/2015 Silver, LGCPC 2024/SCPC 2025 Finalist
 - 🔭 SW Maestro 16th (2025.03~2025.11)
-- 👯 How about solving BOJ problems competitively with friends? https://blobnom.xyz/ (from newbies to LGM!)
+- 👯 How about solving BOJ&Codeforces problems competitively with friends? https://blobnom.xyz/ (from newbies to LGM!)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pgggggggggh)](https://solved.ac/pgggggggggh)
